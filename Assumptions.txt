@@ -3,5 +3,5 @@ Assumptions:
 - Database operations are stubbed and the result is provided. - Both HOLDING and MODEL table.
 - Fred does not want to buy any new Stock , but organized the existing stock as per Mary's Model.
 - If Fred has same STOCK as MARY ex: GM, if Mary holds 20% of GM stocks then Fred would want to provide 20% of overstock to GM.So that it matched Mary's.
-- after organising the end amt in Fred's account is same as what he started with.
+- After organising the end amt in Fred's account is same as what he started with.
 
